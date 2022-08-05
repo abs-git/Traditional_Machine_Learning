@@ -1,5 +1,4 @@
 ## Traditional Machine Learning Algorithms
-### using Scikit learn
 
 > - donghyun kang
 >
